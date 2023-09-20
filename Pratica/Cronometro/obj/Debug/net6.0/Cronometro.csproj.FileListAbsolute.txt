@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Pratica\Cronometro\bin\Debug\net6.0\Cronometro.exe
+C:\dev\FundamentosCsharp\Pratica\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+C:\dev\FundamentosCsharp\Pratica\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+C:\dev\FundamentosCsharp\Pratica\Cronometro\bin\Debug\net6.0\Cronometro.dll
+C:\dev\FundamentosCsharp\Pratica\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.dll
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Pratica\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll
