@@ -1,0 +1,14 @@
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.exe
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.deps.json
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.runtimeconfig.json
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.dll
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.pdb
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.AssemblyInfoInputs.cache
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.AssemblyInfo.cs
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.dll
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\refint\CalculadoraComFuncoes.dll
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.pdb
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.genruntimeconfig.cache
+C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\ref\CalculadoraComFuncoes.dll
