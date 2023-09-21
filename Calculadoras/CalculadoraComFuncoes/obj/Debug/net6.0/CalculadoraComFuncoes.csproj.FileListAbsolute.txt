@@ -12,3 +12,17 @@ C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net
 C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.pdb
 C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.genruntimeconfig.cache
 C:\Users\55639\Área de Trabalho\Calculadora\CalculadoraComFuncoes\obj\Debug\net6.0\ref\CalculadoraComFuncoes.dll
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.dll
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\refint\CalculadoraComFuncoes.dll
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.pdb
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.exe
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.deps.json
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.runtimeconfig.json
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.dll
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\bin\Debug\net6.0\CalculadoraComFuncoes.pdb
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\CalculadoraComFuncoes.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Calculadoras\CalculadoraComFuncoes\obj\Debug\net6.0\ref\CalculadoraComFuncoes.dll

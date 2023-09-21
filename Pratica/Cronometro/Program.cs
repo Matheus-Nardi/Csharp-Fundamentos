@@ -1,7 +1,7 @@
 ﻿using System.Collections.Specialized;
 
 namespace Cronometro
-{
+{   
     internal class Program
     {
         static void Main(string[] args)

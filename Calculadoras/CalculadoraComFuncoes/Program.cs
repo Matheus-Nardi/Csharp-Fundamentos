@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Menu();
+           Menu();
         }
 
 
@@ -174,6 +174,7 @@
         }
         static void Programador()
         {
+            Console.Clear();
             Console.WriteLine("Digite um número na base decimal para transforma-lo em bínario");
             int v1 = int.Parse(Console.ReadLine());
 
@@ -191,8 +192,16 @@
             
             Console.WriteLine($"O número {num} na base binária é = {binary} ");
             Console.ReadKey();
+            Console.WriteLine("Continuar no modo programador ? S|N");
+            char op = Convert.ToChar(Console.ReadLine().ToUpper());
+            switch (op) 
+            {
+               case 'S': MenuProgramador(); break;
+               case 'N': Menu(); break;
+            }
         }
-
+        
+        
     }
 }
     
