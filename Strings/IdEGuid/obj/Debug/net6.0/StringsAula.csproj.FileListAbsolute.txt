@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\StringsAula\bin\Debug\net6.0\StringsAula.exe
+C:\dev\FundamentosCsharp\StringsAula\bin\Debug\net6.0\StringsAula.deps.json
+C:\dev\FundamentosCsharp\StringsAula\bin\Debug\net6.0\StringsAula.runtimeconfig.json
+C:\dev\FundamentosCsharp\StringsAula\bin\Debug\net6.0\StringsAula.dll
+C:\dev\FundamentosCsharp\StringsAula\bin\Debug\net6.0\StringsAula.pdb
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.dll
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\refint\StringsAula.dll
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.pdb
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\StringsAula.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\StringsAula\obj\Debug\net6.0\ref\StringsAula.dll

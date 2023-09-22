@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Strings\CompararString\bin\Debug\net6.0\CompararString.exe
+C:\dev\FundamentosCsharp\Strings\CompararString\bin\Debug\net6.0\CompararString.deps.json
+C:\dev\FundamentosCsharp\Strings\CompararString\bin\Debug\net6.0\CompararString.runtimeconfig.json
+C:\dev\FundamentosCsharp\Strings\CompararString\bin\Debug\net6.0\CompararString.dll
+C:\dev\FundamentosCsharp\Strings\CompararString\bin\Debug\net6.0\CompararString.pdb
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.dll
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\refint\CompararString.dll
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.pdb
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\CompararString.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Strings\CompararString\obj\Debug\net6.0\ref\CompararString.dll
