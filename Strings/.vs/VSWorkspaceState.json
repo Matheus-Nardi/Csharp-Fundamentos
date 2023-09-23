@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CompararString"
   ],
-  "SelectedNode": "\\CompararString",
+  "SelectedNode": "\\CompararString\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Condicionais",
-    "\\Funçoes",
-    "\\LaçosDeRepetição",
-    "\\Structs_Aula"
+    "\\Strings",
+    "\\Strings\\InterpolacaoDeString",
+    "\\Strings\\NewFolder"
   ],
-  "SelectedNode": "\\Structs_Aula\\Program.cs",
+  "SelectedNode": "\\Strings\\NewFolder",
   "PreviewInSolutionExplorer": false
 }

@@ -17,6 +17,41 @@
             Console.WriteLine(frase.Contains("manoel", StringComparison.OrdinalIgnoreCase)); //ingnorando o case sensitive
 
             Console.ReadLine();
+
+            Buscar();
+
         }
+
+
+        //Lista Telefonica  Exemplo
+
+     
+        static void Buscar()
+        {
+            Console.WriteLine("Quem voce deseja adicionar ? ");
+
+            var nome  = Console.ReadLine();
+
+            Console.WriteLine("Qual o número de contato de {nome} : "  );
+            var numContato = Console.ReadLine();
+
+            Console.WriteLine("Buscar por : ");
+            var nomeBusca = Console.ReadLine();
+
+            if (nomeBusca.Contains(nome))
+            {
+                Console.WriteLine("Usuario encontrado");
+                Console.WriteLine($"Numero de contato : {numContato}");
+
+            }
+
+            Console.ReadLine();
+
+        }
+
     }
+
+
+
+
 }
