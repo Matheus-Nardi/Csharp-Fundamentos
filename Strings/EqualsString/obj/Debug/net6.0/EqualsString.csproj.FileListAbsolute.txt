@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Strings\EqualsString\bin\Debug\net6.0\EqualsString.exe
+C:\dev\FundamentosCsharp\Strings\EqualsString\bin\Debug\net6.0\EqualsString.deps.json
+C:\dev\FundamentosCsharp\Strings\EqualsString\bin\Debug\net6.0\EqualsString.runtimeconfig.json
+C:\dev\FundamentosCsharp\Strings\EqualsString\bin\Debug\net6.0\EqualsString.dll
+C:\dev\FundamentosCsharp\Strings\EqualsString\bin\Debug\net6.0\EqualsString.pdb
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.dll
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\refint\EqualsString.dll
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.pdb
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\EqualsString.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Strings\EqualsString\obj\Debug\net6.0\ref\EqualsString.dll

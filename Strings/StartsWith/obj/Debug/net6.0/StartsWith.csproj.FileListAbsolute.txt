@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Strings\StartsWith\bin\Debug\net6.0\StartsWith.exe
+C:\dev\FundamentosCsharp\Strings\StartsWith\bin\Debug\net6.0\StartsWith.deps.json
+C:\dev\FundamentosCsharp\Strings\StartsWith\bin\Debug\net6.0\StartsWith.runtimeconfig.json
+C:\dev\FundamentosCsharp\Strings\StartsWith\bin\Debug\net6.0\StartsWith.dll
+C:\dev\FundamentosCsharp\Strings\StartsWith\bin\Debug\net6.0\StartsWith.pdb
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.dll
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\refint\StartsWith.dll
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.pdb
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\StartsWith.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Strings\StartsWith\obj\Debug\net6.0\ref\StartsWith.dll
