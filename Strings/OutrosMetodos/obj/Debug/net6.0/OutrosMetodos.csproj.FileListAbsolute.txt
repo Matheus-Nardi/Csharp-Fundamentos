@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\bin\Debug\net6.0\OutrosMetodos.exe
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\bin\Debug\net6.0\OutrosMetodos.deps.json
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\bin\Debug\net6.0\OutrosMetodos.runtimeconfig.json
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\bin\Debug\net6.0\OutrosMetodos.dll
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\bin\Debug\net6.0\OutrosMetodos.pdb
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.dll
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\refint\OutrosMetodos.dll
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.pdb
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\OutrosMetodos.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Strings\OutrosMetodos\obj\Debug\net6.0\ref\OutrosMetodos.dll

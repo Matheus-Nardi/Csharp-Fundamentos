@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Strings\Index\bin\Debug\net6.0\Index.exe
+C:\dev\FundamentosCsharp\Strings\Index\bin\Debug\net6.0\Index.deps.json
+C:\dev\FundamentosCsharp\Strings\Index\bin\Debug\net6.0\Index.runtimeconfig.json
+C:\dev\FundamentosCsharp\Strings\Index\bin\Debug\net6.0\Index.dll
+C:\dev\FundamentosCsharp\Strings\Index\bin\Debug\net6.0\Index.pdb
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.dll
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\refint\Index.dll
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.pdb
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\Index.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Strings\Index\obj\Debug\net6.0\ref\Index.dll

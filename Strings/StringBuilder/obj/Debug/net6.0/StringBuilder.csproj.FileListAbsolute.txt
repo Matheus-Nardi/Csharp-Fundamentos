@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Strings\StringBuilder\bin\Debug\net6.0\StringBuilder.exe
+C:\dev\FundamentosCsharp\Strings\StringBuilder\bin\Debug\net6.0\StringBuilder.deps.json
+C:\dev\FundamentosCsharp\Strings\StringBuilder\bin\Debug\net6.0\StringBuilder.runtimeconfig.json
+C:\dev\FundamentosCsharp\Strings\StringBuilder\bin\Debug\net6.0\StringBuilder.dll
+C:\dev\FundamentosCsharp\Strings\StringBuilder\bin\Debug\net6.0\StringBuilder.pdb
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.dll
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\refint\StringBuilder.dll
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.pdb
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\StringBuilder.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Strings\StringBuilder\obj\Debug\net6.0\ref\StringBuilder.dll

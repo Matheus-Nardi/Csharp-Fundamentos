@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\ListaAtividade\bin\Debug\net6.0\ListaAtividade.exe
+C:\dev\FundamentosCsharp\ListaAtividade\bin\Debug\net6.0\ListaAtividade.deps.json
+C:\dev\FundamentosCsharp\ListaAtividade\bin\Debug\net6.0\ListaAtividade.runtimeconfig.json
+C:\dev\FundamentosCsharp\ListaAtividade\bin\Debug\net6.0\ListaAtividade.dll
+C:\dev\FundamentosCsharp\ListaAtividade\bin\Debug\net6.0\ListaAtividade.pdb
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.dll
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\refint\ListaAtividade.dll
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.pdb
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ListaAtividade.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\ListaAtividade\obj\Debug\net6.0\ref\ListaAtividade.dll

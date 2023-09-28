@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CompararString"
+    "\\Index",
+    "\\StringBuilder"
   ],
-  "SelectedNode": "\\CompararString\\Program.cs",
+  "SelectedNode": "\\StringBuilder\\StringBuilder.csproj",
   "PreviewInSolutionExplorer": false
 }
