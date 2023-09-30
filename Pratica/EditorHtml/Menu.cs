@@ -14,6 +14,7 @@ namespace EditorHtml // mesmo namespace
             WriteOptions();
 
             var option = short.Parse(Console.ReadLine());
+            HandlerMenuOption(option);
             Console.ReadLine();
         }
 
@@ -68,6 +69,23 @@ namespace EditorHtml // mesmo namespace
             Console.Write("Opção:");
             
 
+        }
+
+        public static void HandlerMenuOption(short option)
+        {
+                switch(option) 
+                {
+                case 1: Console.SetCursorPosition(5, 8);  Editor.Show();break;
+                case 2: Console.SetCursorPosition(5, 9); Console.WriteLine("View"); break;
+                case 0:
+                    {
+                        Console.Clear();
+                        System.Environment.Exit(0);
+                        break;
+                    }
+                default: Show(); break;
+
+                }
         }
     }
 

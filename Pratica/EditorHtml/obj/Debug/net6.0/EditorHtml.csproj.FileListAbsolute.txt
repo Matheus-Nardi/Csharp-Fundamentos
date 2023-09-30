@@ -12,3 +12,17 @@ C:\dev\FundamentosCsharp\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
 C:\dev\FundamentosCsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
 C:\dev\FundamentosCsharp\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
 C:\dev\FundamentosCsharp\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Pratica\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll

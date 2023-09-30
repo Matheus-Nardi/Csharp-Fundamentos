@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EditorHtml"
   ],
-  "SelectedNode": "\\EditorHtml",
+  "SelectedNode": "\\EditorHtml\\Menu.cs",
   "PreviewInSolutionExplorer": false
 }

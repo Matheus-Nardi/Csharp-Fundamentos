@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\FundamentosCsharp\\EditorHtml\\EditorHtml.csproj": {}
+    "C:\\dev\\FundamentosCsharp\\Pratica\\EditorHtml\\EditorHtml.csproj": {}
   },
   "projects": {
-    "C:\\dev\\FundamentosCsharp\\EditorHtml\\EditorHtml.csproj": {
+    "C:\\dev\\FundamentosCsharp\\Pratica\\EditorHtml\\EditorHtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\FundamentosCsharp\\EditorHtml\\EditorHtml.csproj",
+        "projectUniqueName": "C:\\dev\\FundamentosCsharp\\Pratica\\EditorHtml\\EditorHtml.csproj",
         "projectName": "EditorHtml",
-        "projectPath": "C:\\dev\\FundamentosCsharp\\EditorHtml\\EditorHtml.csproj",
+        "projectPath": "C:\\dev\\FundamentosCsharp\\Pratica\\EditorHtml\\EditorHtml.csproj",
         "packagesPath": "C:\\Users\\55639\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\FundamentosCsharp\\EditorHtml\\obj\\",
+        "outputPath": "C:\\dev\\FundamentosCsharp\\Pratica\\EditorHtml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
