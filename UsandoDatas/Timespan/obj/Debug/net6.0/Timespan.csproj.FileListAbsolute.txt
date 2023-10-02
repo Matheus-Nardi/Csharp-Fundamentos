@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\bin\Debug\net6.0\Timespan.exe
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\bin\Debug\net6.0\Timespan.deps.json
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\bin\Debug\net6.0\Timespan.runtimeconfig.json
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\bin\Debug\net6.0\Timespan.dll
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\bin\Debug\net6.0\Timespan.pdb
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.dll
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\refint\Timespan.dll
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.pdb
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\Timespan.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\UsandoDatas\Timespan\obj\Debug\net6.0\ref\Timespan.dll

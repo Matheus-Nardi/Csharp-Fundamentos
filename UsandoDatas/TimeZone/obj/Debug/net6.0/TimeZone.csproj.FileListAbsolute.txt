@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\bin\Debug\net6.0\TimeZone.exe
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\bin\Debug\net6.0\TimeZone.deps.json
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\bin\Debug\net6.0\TimeZone.runtimeconfig.json
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\bin\Debug\net6.0\TimeZone.dll
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\bin\Debug\net6.0\TimeZone.pdb
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.dll
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\refint\TimeZone.dll
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.pdb
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\TimeZone.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\UsandoDatas\TimeZone\obj\Debug\net6.0\ref\TimeZone.dll
