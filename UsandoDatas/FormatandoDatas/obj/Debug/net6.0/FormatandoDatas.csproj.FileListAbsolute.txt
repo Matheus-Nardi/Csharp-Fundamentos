@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\FormatandoDatas\bin\Debug\net6.0\FormatandoDatas.exe
+C:\dev\FundamentosCsharp\FormatandoDatas\bin\Debug\net6.0\FormatandoDatas.deps.json
+C:\dev\FundamentosCsharp\FormatandoDatas\bin\Debug\net6.0\FormatandoDatas.runtimeconfig.json
+C:\dev\FundamentosCsharp\FormatandoDatas\bin\Debug\net6.0\FormatandoDatas.dll
+C:\dev\FundamentosCsharp\FormatandoDatas\bin\Debug\net6.0\FormatandoDatas.pdb
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.dll
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\refint\FormatandoDatas.dll
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.pdb
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\FormatandoDatas.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\FormatandoDatas\obj\Debug\net6.0\ref\FormatandoDatas.dll

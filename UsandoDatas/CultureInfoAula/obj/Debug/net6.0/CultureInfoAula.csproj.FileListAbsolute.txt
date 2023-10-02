@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\CultureInfoAula\bin\Debug\net6.0\CultureInfoAula.exe
+C:\dev\FundamentosCsharp\CultureInfoAula\bin\Debug\net6.0\CultureInfoAula.deps.json
+C:\dev\FundamentosCsharp\CultureInfoAula\bin\Debug\net6.0\CultureInfoAula.runtimeconfig.json
+C:\dev\FundamentosCsharp\CultureInfoAula\bin\Debug\net6.0\CultureInfoAula.dll
+C:\dev\FundamentosCsharp\CultureInfoAula\bin\Debug\net6.0\CultureInfoAula.pdb
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.dll
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\refint\CultureInfoAula.dll
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.pdb
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\CultureInfoAula.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\CultureInfoAula\obj\Debug\net6.0\ref\CultureInfoAula.dll

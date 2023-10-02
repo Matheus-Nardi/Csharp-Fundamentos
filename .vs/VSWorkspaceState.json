@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Pratica",
-    "\\Pratica\\JogoDeAdvinhar",
-    "\\Strings",
-    "\\Strings\\CompararString",
-    "\\Strings\\InterpolacaoDeString"
+    "\\FormatandoDatas",
+    "\\UsandoDatas",
+    "\\UsandoDatas\\GetData"
   ],
-  "SelectedNode": "\\Pratica\\JogoDeAdvinhar\\Program.cs",
+  "SelectedNode": "\\FormatandoDatas\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

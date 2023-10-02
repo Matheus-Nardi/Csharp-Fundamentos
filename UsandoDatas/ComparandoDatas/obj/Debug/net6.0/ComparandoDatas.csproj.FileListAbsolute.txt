@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\ComparandoDatas\bin\Debug\net6.0\ComparandoDatas.exe
+C:\dev\FundamentosCsharp\ComparandoDatas\bin\Debug\net6.0\ComparandoDatas.deps.json
+C:\dev\FundamentosCsharp\ComparandoDatas\bin\Debug\net6.0\ComparandoDatas.runtimeconfig.json
+C:\dev\FundamentosCsharp\ComparandoDatas\bin\Debug\net6.0\ComparandoDatas.dll
+C:\dev\FundamentosCsharp\ComparandoDatas\bin\Debug\net6.0\ComparandoDatas.pdb
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.dll
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\refint\ComparandoDatas.dll
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.pdb
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ComparandoDatas.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\ComparandoDatas\obj\Debug\net6.0\ref\ComparandoDatas.dll

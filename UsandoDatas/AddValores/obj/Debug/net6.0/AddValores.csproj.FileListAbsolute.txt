@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\AddValores\bin\Debug\net6.0\AddValores.exe
+C:\dev\FundamentosCsharp\AddValores\bin\Debug\net6.0\AddValores.deps.json
+C:\dev\FundamentosCsharp\AddValores\bin\Debug\net6.0\AddValores.runtimeconfig.json
+C:\dev\FundamentosCsharp\AddValores\bin\Debug\net6.0\AddValores.dll
+C:\dev\FundamentosCsharp\AddValores\bin\Debug\net6.0\AddValores.pdb
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.dll
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\refint\AddValores.dll
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.pdb
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\AddValores.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\AddValores\obj\Debug\net6.0\ref\AddValores.dll

@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\bin\Debug\net6.0\GetData.exe
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\bin\Debug\net6.0\GetData.deps.json
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\bin\Debug\net6.0\GetData.runtimeconfig.json
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\bin\Debug\net6.0\GetData.dll
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\bin\Debug\net6.0\GetData.pdb
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.dll
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\refint\GetData.dll
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.pdb
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\GetData.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\UsandoDatas\GetData\obj\Debug\net6.0\ref\GetData.dll
