@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\bin\Debug\net6.0\MathInCsharp.exe
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\bin\Debug\net6.0\MathInCsharp.deps.json
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\bin\Debug\net6.0\MathInCsharp.runtimeconfig.json
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\bin\Debug\net6.0\MathInCsharp.dll
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\bin\Debug\net6.0\MathInCsharp.pdb
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.dll
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\refint\MathInCsharp.dll
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.pdb
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\MathInCsharp.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Moedas\MathInCsharp\obj\Debug\net6.0\ref\MathInCsharp.dll

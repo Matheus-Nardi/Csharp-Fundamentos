@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\bin\Debug\net6.0\TipoParaMoedas.exe
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\bin\Debug\net6.0\TipoParaMoedas.deps.json
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\bin\Debug\net6.0\TipoParaMoedas.runtimeconfig.json
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\bin\Debug\net6.0\TipoParaMoedas.dll
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\bin\Debug\net6.0\TipoParaMoedas.pdb
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.dll
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\refint\TipoParaMoedas.dll
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.pdb
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\TipoParaMoedas.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Moedas\TipoParaMoedas\obj\Debug\net6.0\ref\TipoParaMoedas.dll
