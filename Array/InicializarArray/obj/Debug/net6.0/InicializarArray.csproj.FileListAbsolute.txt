@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Array\InicializarArray\bin\Debug\net6.0\InicializarArray.exe
+C:\dev\FundamentosCsharp\Array\InicializarArray\bin\Debug\net6.0\InicializarArray.deps.json
+C:\dev\FundamentosCsharp\Array\InicializarArray\bin\Debug\net6.0\InicializarArray.runtimeconfig.json
+C:\dev\FundamentosCsharp\Array\InicializarArray\bin\Debug\net6.0\InicializarArray.dll
+C:\dev\FundamentosCsharp\Array\InicializarArray\bin\Debug\net6.0\InicializarArray.pdb
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.dll
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\refint\InicializarArray.dll
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.pdb
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\InicializarArray.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Array\InicializarArray\obj\Debug\net6.0\ref\InicializarArray.dll
