@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\bin\Debug\net6.0\ArrayComStruct.exe
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\bin\Debug\net6.0\ArrayComStruct.deps.json
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\bin\Debug\net6.0\ArrayComStruct.runtimeconfig.json
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\bin\Debug\net6.0\ArrayComStruct.dll
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\bin\Debug\net6.0\ArrayComStruct.pdb
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.dll
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\refint\ArrayComStruct.dll
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.pdb
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ArrayComStruct.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Array\ArrayComStruct\obj\Debug\net6.0\ref\ArrayComStruct.dll

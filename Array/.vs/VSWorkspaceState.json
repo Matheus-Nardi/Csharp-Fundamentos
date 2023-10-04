@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\InicializarArray"
+    "\\ArrayComStruct",
+    "\\PraticandoComArrays"
   ],
-  "SelectedNode": "\\InicializarArray\\Program.cs",
+  "SelectedNode": "\\ArrayComStruct\\ArrayComStruct.csproj",
   "PreviewInSolutionExplorer": false
 }

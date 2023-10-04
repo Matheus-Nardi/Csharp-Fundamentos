@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\bin\Debug\net6.0\PraticandoComArrays.exe
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\bin\Debug\net6.0\PraticandoComArrays.deps.json
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\bin\Debug\net6.0\PraticandoComArrays.runtimeconfig.json
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\bin\Debug\net6.0\PraticandoComArrays.dll
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\bin\Debug\net6.0\PraticandoComArrays.pdb
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.dll
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\refint\PraticandoComArrays.dll
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.pdb
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\PraticandoComArrays.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Array\PraticandoComArrays\obj\Debug\net6.0\ref\PraticandoComArrays.dll

@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\bin\Debug\net6.0\PercorrendoUmArray.exe
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\bin\Debug\net6.0\PercorrendoUmArray.deps.json
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\bin\Debug\net6.0\PercorrendoUmArray.runtimeconfig.json
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\bin\Debug\net6.0\PercorrendoUmArray.dll
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\bin\Debug\net6.0\PercorrendoUmArray.pdb
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.dll
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\refint\PercorrendoUmArray.dll
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.pdb
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\PercorrendoUmArray.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\Array\PercorrendoUmArray\obj\Debug\net6.0\ref\PercorrendoUmArray.dll
