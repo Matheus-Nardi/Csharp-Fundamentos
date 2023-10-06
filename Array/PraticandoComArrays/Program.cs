@@ -10,10 +10,11 @@ namespace PraticandoComArrays
         static void Main(string[] args)
         {
             //Basta chamar o exercicio
+            Exercicio7();
             Console.ReadKey();
         }
 
-        public static void Exercio1()
+        public static void Exercicio1()
         {
             //1 - Crie um programa que solicita ao usuário que insira 5 números inteiros e,
             //em seguida, calcule e exiba a soma desses números.
@@ -157,6 +158,25 @@ namespace PraticandoComArrays
             }
             Console.WriteLine("--------------");
 
+        }
+
+
+        public static int Exercicio7()
+        {
+            int[] numeros = new int[5] {1, 8 , 3 , 12 , 24 };
+            Console.WriteLine("Buscar número : ");
+            int num = int.Parse(Console.ReadLine());
+            for (int i = 0;i < numeros.Length;i++) 
+            {
+                if (numeros[i] == num )
+                {
+                    return i;
+                }
+                
+                
+            
+            }
+           return -1;
         }
 
 
