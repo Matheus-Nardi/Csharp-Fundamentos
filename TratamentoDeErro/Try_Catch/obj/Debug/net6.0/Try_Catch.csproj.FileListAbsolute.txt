@@ -1,0 +1,14 @@
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\bin\Debug\net6.0\Try_Catch.exe
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\bin\Debug\net6.0\Try_Catch.deps.json
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\bin\Debug\net6.0\Try_Catch.runtimeconfig.json
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\bin\Debug\net6.0\Try_Catch.dll
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\bin\Debug\net6.0\Try_Catch.pdb
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.AssemblyInfoInputs.cache
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.AssemblyInfo.cs
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.dll
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\refint\Try_Catch.dll
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.pdb
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\Try_Catch.genruntimeconfig.cache
+C:\dev\FundamentosCsharp\TratamentoDeErro\Try_Catch\obj\Debug\net6.0\ref\Try_Catch.dll
